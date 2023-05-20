@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @klintmane1
+- 👨‍💻 I am an Economist at Keystone Strategy. 
 - 👀 I’m interested in economics, data analysis, data science!
-- 🌱 I’m currently working toward my PhD in economics.
+- 🌱 I have a Ph.D. in applied economics from University of Rochester.
 - 💞️ I’m looking to collaborate on data projects!
 - 📫 How to reach me- Please contact me at klintmane1@gmail.com
 
